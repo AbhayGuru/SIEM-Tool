@@ -1,4 +1,4 @@
-# SEIM-tool
+# SIEM-tool Usage...
 1. Download the file.
 2. Open Cmd and run seim.py file.
 3. CMD : python seim.py
